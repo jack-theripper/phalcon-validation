@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Dmitry
- * Date: 13.02.2018
- * Time: 13:45
- */
 
 namespace Arhitector\Validation\Validator;
 
