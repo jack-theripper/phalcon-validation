@@ -1,8 +1,7 @@
 {
 	"name": "arhitector/validation",
 	"description": "Implementation of the Phalcon Validation component in pure PHP",
-	"minimum-stability": "dev",
-	"license": "",
+	"license": "MIT",
 	"authors": [
 		{
 			"name": "author's name",
@@ -19,5 +18,10 @@
 	},
 	"require": {
 		"php": ">=5.6"
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.x-dev"
+		}
 	}
 }
