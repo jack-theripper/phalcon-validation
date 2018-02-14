@@ -1,0 +1,23 @@
+{
+	"name": "arhitector/validation",
+	"description": "Implementation of the Phalcon Validation component in pure PHP",
+	"minimum-stability": "dev",
+	"license": "",
+	"authors": [
+		{
+			"name": "author's name",
+			"email": "email@example.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Arhitector\\Validation\\": "src"
+		}
+	},
+	"autoload-dev": {
+		"Arhitector\\Validation\\Tests\\": "tests"
+	},
+	"require": {
+		"php": ">=5.6"
+	}
+}
